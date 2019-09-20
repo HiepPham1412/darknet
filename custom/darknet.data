@@ -2,4 +2,4 @@ classes = 1
 train  = custom/train.txt
 valid  = custom/test.txt
 names = custom/classes.names
-backup = /content/gdrive/My\ Drrive/weights
+backup = /content/gdrive/My\ Drive/weights
