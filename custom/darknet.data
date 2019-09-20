@@ -1,5 +1,5 @@
 classes = 1
-train  = darknet/custom/train.txt
-valid  = darknet/custom/test.txt
-names = darket/custom/classes.names
-backup = /gdrive/My\ Drrive/weights
+train  = custom/train.txt
+valid  = custom/test.txt
+names = custom/classes.names
+backup = /content/gdrive/My\ Drrive/weights
